@@ -1,0 +1,35 @@
+.paymentcontainer{
+    width:500px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+    height: 600px;
+}
+
+.logoutdiv{
+    margin-top: -5%;
+    margin-bottom: 7%;
+    font-weight: 40px;
+    font-size: 18px;
+}
+
+/* .counterburgersymbol{
+    width:600px;
+} */
+
+.logout{
+    margin-top: -100%
+}
+
+.BillDetails{
+    margin-top: 7%;
+    font-weight: 40px;
+    font-size: 25px;
+}
+
+.paymentMethod{
+    font-size: 20px;
+    font-weight: 20px;
+}
+
+.logout{
+    margin-left: 90%;
+}
